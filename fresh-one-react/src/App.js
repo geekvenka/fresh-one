@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Using Deploy option in Netlify and accessing files from Github without Build-Source
         </a>
       </header>
     </div>
